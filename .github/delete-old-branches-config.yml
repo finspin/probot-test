@@ -1,0 +1,8 @@
+# List of branches to exclude from deletion. In addition to this list,
+# the protected branches won't be deleted either.
+exclude: 
+  - master
+
+# Number of days since the last commit. E.g. 10 means that all branches
+# whose last commit is older than 10 days will be deleted.
+delete_branches_older_than_days: 10
