@@ -2,4 +2,4 @@
 #  - finspin-patch-2
 #  - finspin-patch-3
 
-# deleteUnmerged: true
+deleteUnmerged: true
