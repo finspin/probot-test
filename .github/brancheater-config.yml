@@ -1,3 +1,5 @@
-exclude:
-  - finspin-patch-2
-  - finspin-patch-3
+#exclude:
+#  - finspin-patch-2
+#  - finspin-patch-3
+
+# deleteUnmerged: true
