@@ -1,5 +1,7 @@
+# List of branches to exclude from deletion
 #exclude:
 #  - finspin-patch-2
 #  - finspin-patch-3
 
+# Set to true to delete branches that have been closed but not merged
 deleteUnmerged: true
